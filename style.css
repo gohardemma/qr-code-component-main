@@ -1,0 +1,39 @@
+body {
+    margin 0;
+    padding 0;
+    background-color: hsl(219, 58%, 91%);
+}
+
+.card {
+    width: 260px;
+    height: 415px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 8%;
+    background-color: hsl(0, 0%, 100%);
+}
+
+.card img {
+    width: 240px;
+    height: 240px;
+    margin-left: 4%;
+    margin-top: 5%;
+    border-radius: 10px;
+}
+
+.card-content h3 {
+   margin: auto;
+   padding:15px;
+   text-align: center;
+   font-family: 'Outfit', sans-serif;
+}
+
+.card-content p {
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    margin-top: -5%;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 100;
+    font-size: 14px;
+}
